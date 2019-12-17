@@ -75,9 +75,9 @@ try:
         
         
     def send_emal():
-        receiver_emails = ['luciorox10@outlook.com'] #Email-s From Send
+        receiver_emails = ['from_recipient@outlook.com'] #Email-s From Send
         subject = datetime.now().strftime("%d-%m-%Y %H-%M-%S")    
-        yag=yagmail.SMTP("ftroxbusiness@gmail.com","face3591") #You Login Gmail
+        yag=yagmail.SMTP("youemail@gmail.com","you_password") #You Login Gmail
 
 
         #Archives path e Body Message
