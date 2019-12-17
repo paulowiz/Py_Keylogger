@@ -34,8 +34,8 @@ $ python start.py
 
 
 ### Packages
-| [`pyautogui`](https://github.com/psf/requests) | PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|
-| [`pynput`](https://pypi.org/project/pynput/) | This library allows you to control and monitor input devices.|
+| [`pyautogui`](https://github.com/psf/requests) | PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|<br>
+| [`pynput`](https://pypi.org/project/pynput/) | This library allows you to control and monitor input devices.|<br>
 | [`yagmail`](https://pypi.org/project/yagmail/) | Sending an Email is as simple:.|
 <br><br> 
 
